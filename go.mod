@@ -1,4 +1,4 @@
-module github.com/Alixxxxxxx/go-session-redis/v3
+module github.com/Alixxxxxxx/go-session-redis/v4
 
 go 1.17
 
